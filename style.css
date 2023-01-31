@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#runl{
+    font-size: 60px;
+    text-align: center;
+    color: green;
+    font-family: 'Monoton', cursive;
+    font-family: 'Tangerine', cursive;
+    word-spacing: 30px;
+    background: #594848;
+    margin-bottom: -10;
+}
+p{
+    font-family:"verdana";}
+#ex { 
+    border: none;
+    border-top: 5px solid;
+    padding: 10px 0px 10px 0px;
+    margin-top: 9px;
+}
+#a{
+    font-size: 100px;
+    padding-right: 100px;
+    text-align: left;
+}
+
+#hu{
+    border: none;
+    border-bottom: 5px solid;
+    margin-top: 50px;
+}
+#c{
+    text-transform: uppercase;
+    text-decoration: underline 3px green;
+    text-decoration-style: double;
+    font-family: serif;
+    font-size: 25px;
+    margin-top: -30px;
+}
+#hi{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+#num{
+    
+    clip-path: circle(200px);
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+body{
+    width: 1340px;
+    height: 1000px;    
+    margin: 0px auto;
+    background-color: grey;
+}
+nav{background: #594848;
+    overflow: auto;
+    width: 100%;
+    
+}
+ul{ margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+li{ float: left;
+}
+nav a{
+    width: 228px;
+    display: block;
+    text-align: center;
+    background: black;
+    font-size: 17px;
+    color: white;
+    padding: 20px;
+}
+nav a:hover{color: black;
+      background:white;
+      transition: .5s all;
+  }
+#oo{
+    border: none;
+    border-top: 1px solid;
+    color: white;
+    padding: -10px auto;
+}
+#gp{ 
+    text-transform: uppercase; 
+    text-decoration: underline;
+    background: black;
+    color: white;
+    font-family: 'Monoton', cursive;
+    font-family: 'Tangerine', cursive;
+    font-size: 30px;
+    position: fixed;
+     right: 0%;
+     top: 11%;
+     cursor: url("cursor.jpg"), auto;
+     word-spacing: 15px;
+ }
+.xm{
+    position: sticky;
+    top: 0PX;
+}
+
+
+
+
+
+ 
